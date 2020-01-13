@@ -28,6 +28,7 @@ body {
 	background-image:linear-gradient(rgb(102,179,183), rgb(58,71,73));
 	font-family:serif;
 	color:white;
+	height:200px;
 }
 .Aller{
 	padding-left:17cm;
@@ -106,6 +107,8 @@ section:last-child {
 
 img.avatar {
   width: 200px;
+  height:200px;
+  margin-top:-0.66cm;
 }
 
 .my-name {
